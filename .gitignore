@@ -1,2 +1,3 @@
 # Always ignore our inputs
+.vscode
 input.txt
